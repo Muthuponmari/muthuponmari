@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a Frontend Team Lead @Kissflow.
+Building scalable & performant web applications.
+
+## Right now building Analytics Module
+- React
+- NodeJs
+- Snowflake Datawarehouse
+
+## Writting my learning here [@medium](https://medium.com/@marisudalai90)
